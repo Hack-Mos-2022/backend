@@ -38,6 +38,7 @@ docker run --name vdnh-postgres -e POSTGRES_USER=dbuser -e POSTGRES_PASSWORD=dbp
 ```bash
 ./gradlew runShadow
 ```
+4) После чего rest начнет работать: http://localhost:8080/v1/places
 
 РАЗРАБОТЧИК
 
